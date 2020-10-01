@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  Welcome to Zh Dev Page
+  <HelloWorld msg="Welcome to Zh Dev Page" />
   </div>
 </template>
 
