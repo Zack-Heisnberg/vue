@@ -1,18 +1,16 @@
 <template>
   <div id="app">
-   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Zh Dev Page" />
+  <center>
+  <h1>"Welcome to Zh Dev Page" <h1/>
+  <h4> dzmltzack@gmail.com</h4>
+    <a href='https://m.me/dznoob.web'><h4> https://m.me/dznoob.web</h4></a></center>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
+  name: 'app'
 }
 </script>
 
