@@ -1,4 +1,4 @@
 {
-"l": ["http://localhost:3000"],
-"h": ["http://localhost:3000"]
+"l": ["https://tionline.cfapps.eu10.hana.ondemand.com","https://tionline.herokuapp.com/"],
+"h": ["https://tionline.cfapps.eu10.hana.ondemand.com","https://tionline.herokuapp.com/"]
 }
