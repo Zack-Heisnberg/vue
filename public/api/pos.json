@@ -1,4 +1,4 @@
 {
-"l": ["https://oneclick-pos1.cfapps.eu10.hana.ondemand.com","https://oneclick-pos1.herokuapp.com"],
-"h": ["https://oneclick-pos1.cfapps.eu10.hana.ondemand.com","https://oneclick-pos1.herokuapp.com"]
+"l": ["http://185.197.195.11:3000","https://oneclick-pos1.cfapps.eu10.hana.ondemand.com","https://oneclick-pos1.herokuapp.com"],
+"h": ["http://185.197.195.11:3000","https://oneclick-pos1.cfapps.eu10.hana.ondemand.com","https://oneclick-pos1.herokuapp.com"]
 }
